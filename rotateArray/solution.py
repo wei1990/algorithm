@@ -1,4 +1,5 @@
-#encoding:utf-8
+# encoding:utf-8
+
 class Solution:
     ##·½·¨Ò»
     def rotateArray(self, nums, k):
